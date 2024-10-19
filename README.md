@@ -1,4 +1,4 @@
-# LoveBreackout
+# LoveBreakout
 
 A simple recreation of the game Breakout made with Lua and Love2D.
 
